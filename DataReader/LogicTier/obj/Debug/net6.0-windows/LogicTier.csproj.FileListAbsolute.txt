@@ -1,0 +1,15 @@
+C:\Users\Максим\Desktop\nstu\programm\DataReader\LogicTier\obj\Debug\net6.0-windows\LogicTier.csproj.AssemblyReference.cache
+C:\Users\Максим\Desktop\nstu\programm\DataReader\LogicTier\obj\Debug\net6.0-windows\LogicTier.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Максим\Desktop\nstu\programm\DataReader\LogicTier\obj\Debug\net6.0-windows\LogicTier.AssemblyInfoInputs.cache
+C:\Users\Максим\Desktop\nstu\programm\DataReader\LogicTier\obj\Debug\net6.0-windows\LogicTier.AssemblyInfo.cs
+C:\Users\Максим\Desktop\nstu\programm\DataReader\LogicTier\obj\Debug\net6.0-windows\LogicTier.csproj.CoreCompileInputs.cache
+C:\Users\Максим\Desktop\nstu\programm\DataReader\LogicTier\bin\Debug\net6.0-windows\LogicTier.deps.json
+C:\Users\Максим\Desktop\nstu\programm\DataReader\LogicTier\bin\Debug\net6.0-windows\LogicTier.dll
+C:\Users\Максим\Desktop\nstu\programm\DataReader\LogicTier\bin\Debug\net6.0-windows\LogicTier.pdb
+C:\Users\Максим\Desktop\nstu\programm\DataReader\LogicTier\obj\Debug\net6.0-windows\LogicTier.dll
+C:\Users\Максим\Desktop\nstu\programm\DataReader\LogicTier\obj\Debug\net6.0-windows\refint\LogicTier.dll
+C:\Users\Максим\Desktop\nstu\programm\DataReader\LogicTier\obj\Debug\net6.0-windows\LogicTier.pdb
+C:\Users\Максим\Desktop\nstu\programm\DataReader\LogicTier\obj\Debug\net6.0-windows\ref\LogicTier.dll
+C:\Users\Максим\Desktop\nstu\programm\DataReader\LogicTier\bin\Debug\net6.0-windows\DataTier.dll
+C:\Users\Максим\Desktop\nstu\programm\DataReader\LogicTier\bin\Debug\net6.0-windows\DataTier.pdb
+C:\Users\Максим\Desktop\nstu\programm\DataReader\LogicTier\obj\Debug\net6.0-windows\LogicTier.csproj.CopyComplete
